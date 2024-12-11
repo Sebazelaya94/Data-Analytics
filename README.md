@@ -1,4 +1,5 @@
-Temática: Amazon Delivery
+Amazon Delivery
+
 En el presente trabajo se elaborará un dashboard sobre las entregas de “Amazon Delivery”
 correspondientes al año 2022 de lo que se denomina “Logística de última milla”, que es el
 movimiento de pedidos desde un centro de distribución hacia sus destinos finales, el paso
